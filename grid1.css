@@ -1,0 +1,37 @@
+.col, .col-sm-3{
+    /* background-color: dodgerblue; */
+    border: 2px solid white;
+    color: white;
+    padding: 10px;
+    background-color: purple;
+    }
+    
+    .col-6, .side-bar{
+    height: 400px; 
+    line-height: 200px;
+    }
+
+    .content-1{
+    height: 300px;
+    }
+
+    .content-2{
+    position: relative;
+    left: 25%;
+    margin-top: -100px;
+    height: 100px;
+    width: 37.5%;
+    }
+
+    .container-fluid{
+   text-align: center;
+    }
+
+body{
+background-color: #E6E6E6;
+color: #101010;
+}
+
+.side-bar{
+
+}

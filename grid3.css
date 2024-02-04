@@ -1,0 +1,30 @@
+.col{
+    color: white;
+}
+
+.second{
+height: 400px;
+}
+
+.dark{
+height: 200px;
+}
+
+.flex{
+position: relative;
+left: 25%;
+top: -200px;
+height: 200px;
+}
+
+.container{
+position: absolute;
+width: 90%;
+background-color: green;
+}
+
+.content{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}

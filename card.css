@@ -1,0 +1,14 @@
+.computer img{
+height: 400px;
+}
+
+.btn{
+color: white;
+}
+
+.grid a{
+font-size: 40px;
+align-items: center;
+padding: 3px;
+margin-left: 20px;
+}
